@@ -1,0 +1,12 @@
+React Life cycle methods 
+
+constructor()
+
+render()
+
+Thses two are the important methods in the Life Cycle
+
+componentDidMount()
+
+componentWillUnMount()
+
